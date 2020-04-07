@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\bin\Release\RRNetworkConsoleClient.exe
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\bin\Release\RRNetworkConsoleClient.pdb
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\obj\Release\RRNetworkConsoleClient.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\obj\Release\RRNetworkConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\obj\Release\RRNetworkConsoleClient.exe
+C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleClient\obj\Release\RRNetworkConsoleClient.pdb
