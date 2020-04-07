@@ -1,1 +1,5 @@
 .idea
+/RRNetworkConsoleClient/obj
+/RRNetworkConsoleClient/bin
+/RRNetworkConsoleServer/bin
+/RRNetworkConsoleServer/obj

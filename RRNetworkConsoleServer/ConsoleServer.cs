@@ -40,9 +40,7 @@
 
                     if (receivedMessage.Length > 0)
                     {
-                        Console.WriteLine(
-                            format: "Received: {0}",
-                            arg0: receivedMessage);
+                        Console.Write(receivedMessage);
                     }
 
                     client.Close();

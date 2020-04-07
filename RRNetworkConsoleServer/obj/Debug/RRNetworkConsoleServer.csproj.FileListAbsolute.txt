@@ -1,6 +1,0 @@
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\bin\Debug\RRNetworkConsoleServer.exe
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\bin\Debug\RRNetworkConsoleServer.pdb
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\obj\Debug\RRNetworkConsoleServer.csprojAssemblyReference.cache
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\obj\Debug\RRNetworkConsoleServer.csproj.CoreCompileInputs.cache
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\obj\Debug\RRNetworkConsoleServer.exe
-C:\Users\User\RiderProjects\RRNetworkConsole\RRNetworkConsoleServer\obj\Debug\RRNetworkConsoleServer.pdb

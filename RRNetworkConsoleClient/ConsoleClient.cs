@@ -13,22 +13,23 @@
             var clientSettings = InitializeClientSettings();
             TestConnection(clientSettings: clientSettings);
 
-            while (true)
+            ConsoleKeyInfo  keyInfo;
+            do
             {
-                Console.Write(value: "Enter message (Enter to exit): ");
-                var message = Console.ReadLine();
-
-                if (message?.Length == 0)
+                while (!Console.KeyAvailable)
                 {
-                    break;
+
                 }
 
-                Console.WriteLine(value: "Sending...");
+                keyInfo = Console.ReadKey(true);
+
+                Console.Write(keyInfo.KeyChar.ToString());
+
                 SendMessage(
                     clientSettings: clientSettings,
-                    message: message);
-                Console.WriteLine(format: "Message '{0}' sent", arg0: message);
-            }
+                    message: keyInfo.KeyChar.ToString());
+
+            } while (keyInfo.Key != ConsoleKey.Escape);
         }
 
         private static void SendMessage(
